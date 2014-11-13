@@ -1,0 +1,9 @@
+1. Create a python file called year.py to print hello world and execute it.
+2. Create testinput.txt and write random dates in it.
+3. Change year.py to read testinput.txt and print line by line.
+4. Split the year value.
+5. Check the year if it is greater then 2010 print the line.
+6. Write the pt 5 to a new file.
+
+13/11/2014
+1. Create a text file with data as name,DOB,Employee Number,Department and print the
