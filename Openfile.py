@@ -1,11 +1,6 @@
 __author__ = 'kc'
 
 
-rawinput = '../data/fb_friends_raw.txt'
-
-
-
-
 def getfriends(inputFile):
     i = 0
     file = open(inputFile, 'r')
@@ -19,5 +14,9 @@ def getfriends(inputFile):
 
     print 'Number of friends you have',i
 
+
+#=========== main  ===========
+
+rawinput = '../data/fb_friends_raw.txt'
 
 getfriends(rawinput)

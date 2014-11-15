@@ -6,4 +6,5 @@
 6. Write the pt 5 to a new file.
 
 13/11/2014
-1. Create a text file with data as name,DOB,Employee Number,Department and print the
+1. Create a text file with data as name,DOB,Employee Number,Department and print the DOB, Name to a new file.
+2.
