@@ -1,0 +1,13 @@
+Name, DOB and profession details of employee as below.
+John,Lewis,20/02/1969,Clerk
+Fanny,Moore,19/04/1997,Manager
+Freddy,Lord,14/03/1998,Supervisor
+Clare,Munday,06/12/1976,Teacher
+Sunny,Floyd,11/11/1980,Lawyer
+Luke,Watson,12/05/1782,Nurse
+Linda,Cooper,14/02/1972,Doctor
+Cynthia,Lane,09/08/1953,HOD
+Susan,Lindsay,08/04/1976,Librarian
+Brenda,Band,06/07/1980,Head Teacher
+Harry,Potter,07/07/1980,CEO
+Henry,Sugar,08/07/1971,Industrialist
